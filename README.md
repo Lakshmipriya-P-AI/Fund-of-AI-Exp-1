@@ -56,7 +56,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 5. If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.
 
 ## PROGRAM:
-python```
+python
 #import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
