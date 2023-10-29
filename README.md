@@ -79,7 +79,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-```
+
 
 ### Sample Input:
 ![image](https://github.com/Aashima02/AI01-Implement-Depth-First-Search-Traversal-of-a-Graph/assets/93427086/fac182f3-6f35-4b25-b88e-5c33cebda4ed)
